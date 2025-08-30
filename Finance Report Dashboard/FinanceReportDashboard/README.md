@@ -28,6 +28,5 @@ To create a dashboard that summarizes financial metrics to help stakeholders mak
 
 Clone this repository to your local machine by using the following command :
 ```
-git clone https://github.com/TheMrityunjayPathak/FinanceReportDashboard.git
-```
+git clone https://github.com/kaushal980867/Finance-Report-Dashboard.git
 
